@@ -6,4 +6,4 @@ I am seeking a role as a Front End Developer, with hopes to eventually become a 
 
 I am a puzzle solver. Sometimes the puzzle at hand is scaling Operations for an e-commerce company, effectively executing a 100-person event, or writing a web application. Regardless of the situation, I love to look at every piece, putting them together to create something much bigger.
 
-View my portfolio here: https://ewirtz3.github.io/emilywirtz
+View my portfolio <a href="https://ewirtz3.github.io/emilywirtz">here</a>
